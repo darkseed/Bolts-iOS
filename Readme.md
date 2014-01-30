@@ -262,3 +262,12 @@ For common cases, such as dispatching on the main thread, we have provided defau
 }];
 ```
 
+# Installation
+
+[![Version](http://cocoapod-badges.herokuapp.com/v/Bolts/badge.png)](http://cocoadocs.org/docsets/Bolts)
+[![Platform](http://cocoapod-badges.herokuapp.com/p/Bolts/badge.png)](http://cocoadocs.org/docsets/Bolts)
+
+Bolts is available through [CocoaPods](http://cocoapods.org), to install
+it simply add the following line to your Podfile:
+
+    pod "Bolts"
